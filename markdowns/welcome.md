@@ -16,7 +16,8 @@ Let's see how well you know Python by quizzing you with 10 questions.
 -[] -array
 -[x] numArray
 
-?[Which of these functions would you use to convert an integer into a binary string? (1 answer)]
+?[Which of these functions would you use to convert an integer into a binary string?
+(1 answer)]
 -[] hex()
 -[] str()
 -[x] bin()
