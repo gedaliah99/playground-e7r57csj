@@ -1,9 +1,13 @@
-# Welcome!
+# Useful Websites for Learning Programming
+In this article, I will go through 6 interesting websites that are good resources for learning programming.
 
-This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+## The 6 Websites
 
+### W3Schools
+/Screenshot 2024-05-14 at 19.40.04.png
+W3Schools is the world's largest developer site.
 
-Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
+Here you can learn any of the many languages and topics from Python, HTML and Java to SASS, Cybersecurity and Data Science.
 
 # Template Resources
 
