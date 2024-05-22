@@ -57,7 +57,7 @@ Let's see how well you know Python by quizzing you with 10 questions.
 ?[What is the result of this line of code: ```print(' '.join(['1', '2', 'three', 'four', '5']))``` (1 answer)]
 -[x] "1 2 three four 5"
 -[] "1 2 3 4 5"
--[] "1  2 three  four 5"
+-[] "1, 2, three, four, 5"
 -[] "One_Two_3_4_Five"
 
 ## Question 9
